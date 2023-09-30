@@ -21,6 +21,10 @@
 
 ### Ответ 1:
 https://www.hackerrank.com/kulisacrimea
+![image](https://github.com/bezymel/devpy/assets/129361495/ee23fb80-1fdd-4a44-89b2-ba4c1d385751)
+![image](https://github.com/bezymel/devpy/assets/129361495/c8a5c826-5110-46af-a4d7-9cdb3d699a84)
+![image](https://github.com/bezymel/devpy/assets/129361495/e13c9152-90ad-45ba-b4e3-92d8733e3697)
+
 
 ## Задача №2
 Квадрат и прямоугольник.  
