@@ -19,6 +19,9 @@
 
 Пример: ссылка на аккаунт eshmargunov - hackerrank.com/eshmargunov
 
+### Ответ 1:
+https://www.hackerrank.com/kulisacrimea
+
 ## Задача №2
 Квадрат и прямоугольник.  
 
