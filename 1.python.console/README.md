@@ -23,7 +23,9 @@
 https://www.hackerrank.com/kulisacrimea
 ![image](https://github.com/bezymel/devpy/assets/129361495/ee23fb80-1fdd-4a44-89b2-ba4c1d385751)
 ![image](https://github.com/bezymel/devpy/assets/129361495/c8a5c826-5110-46af-a4d7-9cdb3d699a84)
+![image](https://github.com/bezymel/devpy/assets/129361495/d97f8345-c113-4472-bf83-6792eedcbd5a)
 ![image](https://github.com/bezymel/devpy/assets/129361495/e13c9152-90ad-45ba-b4e3-92d8733e3697)
+![image](https://github.com/bezymel/devpy/assets/129361495/f61c5aa5-6fb1-4ab2-8dbe-3392cf38ec57)
 
 
 ## Задача №2
