@@ -58,6 +58,8 @@ https://www.hackerrank.com/kulisacrimea
 ### Ответ 2:
 https://replit.com/@bezymel
 ![image](https://github.com/bezymel/devpy/assets/129361495/b11bd60b-3593-48d5-aaa2-331416fc43f0)
+![image](https://github.com/bezymel/devpy/assets/129361495/8b6b6d4d-a65a-4e95-8784-12eb8a314fae)
+
 
 
 ## Задача №3
