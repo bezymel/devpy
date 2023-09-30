@@ -84,7 +84,9 @@ https://replit.com/@bezymel
 На ипотеку было потрачено: 360000 рублей
 Было накоплено: 240000 рублей
 ```
-
+### Ответ 3: 
+![image](https://github.com/bezymel/devpy/assets/129361495/0ea3c913-298f-4e0d-9182-2237fe3dd974)
+https://replit.com/@bezymel
 ---
 Инструкция по выполнению домашнего задания:
 
