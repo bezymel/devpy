@@ -14,7 +14,8 @@ https://www.hackerrank.com/kulisacrimea
 3. Учится ли он сейчас.
 
 ### Ответ 2:
-
+![image](https://github.com/bezymel/devpy/assets/129361495/43003349-a0a3-4632-91da-be0bfb747958)
+https://replit.com/@bezymel
 
 ## Задание №3
 Разработать приложение для определения знака зодиака по дате рождения.  
@@ -27,6 +28,7 @@ https://www.hackerrank.com/kulisacrimea
 Рыбы
 ```
 ### Ответ 3:
+![image](https://github.com/bezymel/devpy/assets/129361495/a9bbdfdd-1211-4de9-a4d2-bff7cc64139f)
 
 
 ## Задание №4
