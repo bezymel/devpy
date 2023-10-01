@@ -4,11 +4,17 @@
 Задачи на [hackerrank](https://www.hackerrank.com/domains/python):  
 Решить задачу на hackerrank ["Python If-Else"](https://www.hackerrank.com/challenges/py-if-else/problem).  
 
+### Ответ 1:
+![image](https://github.com/bezymel/devpy/assets/129361495/11ea190d-6201-4735-88cf-5bc70db6dc98)
+
 ## Задача №2
 На лекции мы рассматривали пример для военкомата. Сейчас мы знаем про его рост. Расширить это приложение следующими условиями:
 1. Проверка на возраст призывника.
 2. Количество детей.
 3. Учится ли он сейчас.
+
+### Ответ 2:
+
 
 ## Задание №3
 Разработать приложение для определения знака зодиака по дате рождения.  
@@ -20,10 +26,16 @@
 Вывод:
 Рыбы
 ```
+### Ответ 3:
+
 
 ## Задание №4
 К следующей лекции прочитать про циклы [for](https://foxford.ru/wiki/informatika/tsikl-for-v-python) и
  [while](https://foxford.ru/wiki/informatika/tsikl-while-v-python).
+ 
+### Ответ 4:
+
+
 
 ---
 Инструкция по выполнению домашнего задания:
